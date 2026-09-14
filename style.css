@@ -1,0 +1,25 @@
+*{
+    background-color: #fdf0d5;
+    color: #780000;
+}
+
+h1{
+    background-color: #c1121f;
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+}
+
+.lasagna, .hamburger, .fried-chicken{
+
+    margin: 20px;
+    
+}
+
+
